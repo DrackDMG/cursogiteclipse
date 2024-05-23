@@ -10,12 +10,4 @@ esto si
 
 
 
-<<<<<<< HEAD
-
-
-
-
-OUADRHWUOHHNKLRDLFJ ADF
-=======
-OTRAVES PERO EDITANDI EL MISMO
->>>>>>> stash
+CAMBIO EN RAMA 1
