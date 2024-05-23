@@ -12,3 +12,5 @@ AIS
 feature2
 
 corregir error encontrado
+
+cambio que no quiero liberar
