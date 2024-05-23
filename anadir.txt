@@ -8,5 +8,3 @@ cabio en remoto
 
 git clones
 cambio L5
-
-lol
