@@ -1,7 +1,4 @@
 contenido
-
-cambio
-
-cambio para git hub
+cabio en remoto
 
 git clones
